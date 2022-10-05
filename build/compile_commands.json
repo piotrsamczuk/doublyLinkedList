@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/piotrsamczuk/wsl2Practice/doublyLinkedList/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/doublyLinkedList.dir/main.cpp.o -c /home/piotrsamczuk/wsl2Practice/doublyLinkedList/main.cpp",
+  "file": "/home/piotrsamczuk/wsl2Practice/doublyLinkedList/main.cpp"
+}
+]
