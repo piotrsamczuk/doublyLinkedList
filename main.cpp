@@ -11,5 +11,10 @@ int main()
 	list1.addBack("5");
 	list1.addBack("6");
 	list1.display();
+
+	//testing
+	list1.addFront("0");
+	list1.reverse();
+	list1.display();
 	return 0;
 }
