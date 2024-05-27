@@ -1,4 +1,4 @@
-# CMake Double Linked List
+# Doubly Linked List
 
 ## Overview
 
